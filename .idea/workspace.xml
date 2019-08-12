@@ -132,7 +132,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="75">
-                <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+                <caret line="5" column="174" selection-start-line="5" selection-start-column="174" selection-end-line="5" selection-end-column="174" />
               </first_editor>
               <second_editor />
             </state>
@@ -196,50 +196,6 @@
             <path>
               <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
               <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nigoni" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nigoni" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-              <item name="exampleSite" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -297,16 +253,15 @@
       <option name="presentableId" value="Default" />
       <updated>1565567250259</updated>
       <workItem from="1565567251766" duration="1650000" />
-      <workItem from="1565569136297" duration="7295000" />
+      <workItem from="1565569136297" duration="7560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8945000" />
+    <option name="totallyTimeSpent" value="9210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30048466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -566,7 +521,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
-            <caret line="5" column="109" selection-start-line="5" selection-start-column="109" selection-end-line="5" selection-end-column="109" />
+            <caret line="5" column="174" selection-start-line="5" selection-start-column="174" selection-end-line="5" selection-end-column="174" />
           </first_editor>
           <second_editor />
         </state>
