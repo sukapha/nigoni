@@ -1,0 +1,31 @@
+title = "Nigoni"
+baseURL = "https://www.nigoni.com"
+languageCode = "en-us"
+theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-128913677-1"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  facebook = ""
+  twitter = "https://twitter.com/XNigoni"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = "https://www.linkedin.com/in/santanu-baruah-gs/"
+  mastodon = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/nyc-bg.jpg"
+  recent_posts_number = 2
